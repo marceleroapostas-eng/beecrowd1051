@@ -1,8 +1,8 @@
-\# Beecrowd 1051 - Imposto de Renda
+# Beecrowd 1051 - Imposto de Renda
 
 
 
-\## Descrição
+## Descrição
 
 
 
@@ -10,19 +10,19 @@ Este programa resolve o problema 1051 do Beecrowd.
 
 
 
-\## Tecnologias utilizadas
+## Tecnologias utilizadas
 
 
 
-\- Java
+- Java
 
-\- NetBeans
+- NetBeans
 
-\- Maven
+- Maven
 
 
 
-\## Entrada
+## Entrada
 
 
 
@@ -30,7 +30,7 @@ A entrada contém um valor de ponto flutuante que representa o salário.
 
 
 
-\## Saída
+## Saída
 
 
 
@@ -42,11 +42,11 @@ Caso o salário seja menor ou igual a R$ 2000,00, apresenta:
 
 
 
-\*\*Isento\*\*
+**Isento**
 
 
 
-\## Autor
+## Autor
 
 
 
